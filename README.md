@@ -26,7 +26,7 @@ This project is a simple frontend fashion store website, built using **HTML**, *
 
 ## Screenshots
 ### Homepage
-![Homepage](image2.jpg)
+![Homepage](images2.jpg)
 
 ### Product Gallery
 ![Product Gallery](aboutdress.jpg)
